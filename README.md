@@ -39,7 +39,7 @@ Professional Experience
 
 ### Cavium Inc / Marvell Semiconductor  (Marlborough, MA)
 
-_ Engineer, Jan 2011 - Present_
+Engineer, Jan 2011 - Present
 
 * Coded macro placement def generation for ICC2 in python wherever macro placement was    predictable, to eliminate the hand placement necessity
 * Coded macro grouping by instance names parsing and cleaning,  when macro placement was a mystery with a new/unknown block
