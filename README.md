@@ -46,4 +46,5 @@ Engineer, Jan 2011 - Present
 * Developed clock skew number generation tool for every instance for multi instance blocks from nodal extract simulations to give skew credit for global paths
 * Fully automated clock tree simulations from capext to creating HTML file to publish insertion delays and skew numbers in Wiki after running HSPICE simulations using various corners in Python. This script eliminated ALL manual efforts of publishing skew data and supplying them to the timing team, everytime clock tree changed for various integration reasons
 * Wrote a python wrapper to convert the configs from one product to another and running custom macro collateral generation flow that reduced the lengthy monotonous process of manually changing configs and running the flow, doing svn commit  for a handful number of macros. The equivalent effort reduced from one week to push button job completed in two days
-* Wrote scripts and performed debugging for low scan coverage in various custom blocks.
+* Wrote scripts and performed debugging for low scan coverage in various custom blocks
+* Worked on various memory design, place and route, floorplanning, clocking projects
