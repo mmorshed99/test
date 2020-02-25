@@ -7,12 +7,12 @@ _978-760-3695 / mmorshed@asu.edu_
 Objective
 ---------
 
-To obtain a challenging software developer position that requires knowledge and hands on experience of data structures and algorithms using previous software development experience in CAD software, courseworks and certifications. Open to relocate anywhere in the USA for the purpose of learning and contributing in software engineering
+To obtain a challenging software developer position that requires knowledge and hands on experience of data structures and algorithms using previous software development experience in CAD software for 2+ years, courseworks and certifications. Open to relocate anywhere in the USA for the purpose of learning and contributing in software engineering
 
 Summary of Qualifications
 -------------------------
 
-* Expertise in Python and C++ by CAD software development
+* Expertise in Python and C++ by CAD software development for 2+ years
 * Participant in Hackerrank programming contests. <https://www.hackerrank.com/mmorshed>
    With 90 percentile ranking. Github Profile including optimized programming problems solutions <https://github.com/mmorshed99>
 * Scripting/automation expert on Flow development for IC design using Perl and TCLSH.
@@ -27,7 +27,7 @@ Educational background and Certifications
 * MSE, Electrical Engineering, Arizona State University, 2010 
 * Graduate level Courses, Cloud Computing and Machine Learning, Indiana University  Bloomington, 2016
 * B. Sc. In Electrical and Electronic Engineering Bangladesh University of Engineering and Technology (BUET), 2008
-* Udacity Nano degree / Coursera certification on Algorithmic Toolbox, Data Structures, Algorithms on Graphs, Machine Learning and SQL database
+* Udacity Nano degree / Coursera certification on Algorithmic Toolbox, Data Structures, Algorithms on Graphs, Machine Learning and SQL database in 2016-2017
 
 Technical Skills
 -----------------
