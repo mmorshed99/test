@@ -37,9 +37,9 @@ Python, C++, Kotlin, Java,Perl, MATLAB, MySQL, HTML, CSS, Hadoop, HDFS, SKLEARN,
 Professional Experience
 -----------------------
 
-### Cavium Inc / Marvell Semiconductor  (Marlborough, MA)
+### Marvell Semiconductor  (Marlborough, MA)
 
-Engineer, Jan 2011 - Present
+Engineer, Jan 2018 - Present
 
 * Coded macro placement def generation for ICC2 in python wherever macro placement was    predictable, to eliminate the hand placement necessity
 * Coded macro grouping by instance names parsing and cleaning,  when macro placement was a mystery with a new/unknown block
@@ -48,3 +48,12 @@ Engineer, Jan 2011 - Present
 * Wrote a python wrapper to convert the configs from one product to another and running custom macro collateral generation flow that reduced the lengthy monotonous process of manually changing configs and running the flow, doing svn commit  for a handful number of macros. The equivalent effort reduced from one week to push button job completed in two days
 * Wrote scripts and performed debugging for low scan coverage in various custom blocks
 * Worked on various memory design, place and route, floorplanning, clocking projects
+
+
+### Cavium Inc  (Marlborough, MA)
+
+Engineer, Jan 2011 - Dec 2017
+
+* Worked on various memory design, place and route, floorplanning, clocking projects
+* Ran SPICE simulations, DC and ICC2
+* Designed clock cells for custom clock routing in the chip
